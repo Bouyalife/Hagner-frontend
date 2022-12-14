@@ -1,0 +1,17 @@
+#navbar{
+    background: #21242b;
+}
+
+#links{
+    color:white;
+    font-size: 20px;
+    margin-right:50px;
+    text-decoration: none;
+    align-content: center;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+

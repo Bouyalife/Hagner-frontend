@@ -1,0 +1,33 @@
+#allEntities {
+   background: whitesmoke;
+   border: 1px solid black;
+   margin-top:10px;
+   align-self:center;
+   width:35%;
+   box-shadow:1px 1px 4px;
+   padding-bottom:5px;
+}
+ 
+ #wholePage{
+   margin-top:5%;
+   display:flex;
+   flex-flow:column;
+   position:relative;
+   justify-content:flex-start;
+   align-items:center;
+   opacity: 1;
+ }
+
+ .popUp{
+   margin-top:-2%;
+   position:absolute;
+   z-index: 10;
+ }
+
+ #deleteButton{
+   margin-right: 2px;
+ }
+
+ #p {
+   font-size: 23px;
+ }

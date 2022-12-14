@@ -1,0 +1,36 @@
+#allEntities {
+
+    border: 1px solid black;
+    margin-top:5px;
+    align-self:center;
+    width:35%;
+}
+
+.allEntities{
+    display:flex;
+    flex-flow:column;
+}
+
+#searchedEntity{
+    border: 1px solid gray;
+    background: whitesmoke;
+    width:70%;
+    margin-top:5%;
+    box-shadow: 1px 1px 10px;
+    align-self: center;
+    
+    display:none;
+}
+
+.getEntity{
+    margin-top: 5%;
+}
+
+#idSearch{
+    margin-top:10%;
+    width: 100vh;
+    height:3vh;
+    align-self:center;
+    text-align:center;
+    font-size:16px;
+}

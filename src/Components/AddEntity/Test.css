@@ -1,0 +1,29 @@
+.inputText{
+    height:3vh;
+    font-size:16px;
+    margin-top:3px;
+}
+
+.inputLabel{
+    margin-top:7px;
+}
+
+.inputRow {
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+.addEntity{
+    width:17%;
+    margin-left:40%;
+    margin-top:5%;
+}
+
+#submitButton{
+    margin-top:10px;
+    width:15vh;
+    height:3vh;
+    font-size: large;
+    cursor:pointer;
+}
